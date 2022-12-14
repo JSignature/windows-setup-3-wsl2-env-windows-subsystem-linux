@@ -1,5 +1,7 @@
 # Setting Up WSL2
 
+# https://learn.microsoft.com/en-us/windows/wsl/install
+
 Windows Subsystem Linux (WSL) is **not** automatically enabled on windows. So,
 to start, we need to enable it!
 
